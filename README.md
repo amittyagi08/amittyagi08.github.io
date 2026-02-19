@@ -1,2 +1,4 @@
 # amittyagi08.github.io
-AI systems architect focused on responsible AI, evaluation frameworks, and applied finance research.
+Personal site for AI systems, responsible AI evaluation, and applied finance research.
+
+Live: https://amittyagi08.github.io/
